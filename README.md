@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm a mechatronics engineering student at Tec, passionate about the intersection of mechanics and electronics. With hands-on experience in robotics, digital design, and smart manufacturing, I enjoy turning ideas into reality. I’ve worked with tools like SolidWorks, Arduino, and PLCs, but I know there’s always more to learn! 🌱
+I'm a mechatronics engineering student, passionate about the intersection of mechanics and electronics. With hands-on experience in robotics, digital design, and smart manufacturing, I enjoy turning ideas into reality. I’ve worked with tools like SolidWorks, Arduino, and PLCs, but I know there’s always more to learn! 🌱
 
 I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way. If you share similar interests, feel free to connect! 🚀
 
