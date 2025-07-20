@@ -1,8 +1,8 @@
 # Hello there! 👋
 
-I'm a mechatronics engineering student, passionate about the intersection of mechanics and electronics. With hands-on experience in robotics, digital design, and smart manufacturing, I enjoy turning ideas into reality. I’ve worked with tools like SolidWorks, Arduino, and PLCs, but I know there’s always more to learn! 🌱
+Hi! I’m a Mechatronics Engineer passionate about the fusion of mechanics, electronics, and automation. With hands-on experience in robotics, digital design, and smart manufacturing, I love bringing innovative ideas to life. I’ve worked with SolidWorks, Arduino, PLCs, and more — always eager to learn new tools and technologies! 🌱
 
-I believe in continuous growth and collaboration, and I'm excited to explore new technologies along the way. If you share similar interests, feel free to connect! 🚀
+I’m all about continuous growth, collaboration, and pushing boundaries in automation and robotics. If you’re into similar tech or projects, let’s connect and build something great! 🚀
 
 ## Skills 💻
 
@@ -21,4 +21,4 @@ Feel free to reach out if you want to chat or collaborate!
 
 - I love exploring new technologies and gadgets.
 - I enjoy working on DIY projects during my free time.
-- I'm an avid fan of robotics competitions!
+- I'm an avid fan of robotics!!!
